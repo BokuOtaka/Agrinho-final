@@ -1,0 +1,20 @@
+:root {
+    --cor-principal: #6959CD
+    --cor-botoes:var(--cor-principal)
+}
+body {
+background-color: hsl(127, 42%, 74%);
+}
+button {
+    background-color: aqua;
+    
+}
+.img{
+    width: 32%;
+    height: 59%;
+    border-radius: 10%;
+    margin-left: 32%;
+}
+.h1{
+    margin-left: 25%;
+}
